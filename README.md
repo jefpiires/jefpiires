@@ -47,16 +47,7 @@
   <a href="https://www.linkedin.com/in/jeferson-piires/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="jeferson.piires@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="jefpiires98" target="_blank">
+  <a href="https://www.instagram.com/jefpiires98?igsh=Nmw1Njh4MmkyeXli" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/jefpiires/jefpiires/output/snake.svg" alt="Snake animation" />
-
-###
