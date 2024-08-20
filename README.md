@@ -26,6 +26,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
 </div>
 
+<div>
+  https://my-portfolio-rho-silk-81.vercel.app/
+</div>
+
 ###
 
 <h2 align="left">Stats</h2>
@@ -51,5 +55,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
-
-https://my-portfolio-rho-silk-81.vercel.app/
