@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Front-End Developer<br>- Mobile Developer<br>-  Bachelor's Degree in Information Systems from Uniaraxá<br>- 3 years of experience working as a Front-End and Mobile Developer Trainee</p>
+<p align="left">- Front-End Developer<br>- Mobile Developer<br>-  Bachelor's Degree in Information Systems from Uniaraxá<br>- 3 years of experience working as a Front-End and Mobile Developer</p>
 <div>
   <a href="https://my-portfolio-rho-silk-81.vercel.app/"><span>My Portfolio</span></a>
 </div>
